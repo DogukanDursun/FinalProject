@@ -5,10 +5,13 @@ C:\Users\hp\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\DataAcces
 C:\Users\hp\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
 C:\Users\hp\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\hp\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
-C:\Users\hp\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
 C:\Users\hp\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
 C:\Users\hp\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
 C:\Users\hp\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\hp\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\hp\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\hp\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\hp\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\hp\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
